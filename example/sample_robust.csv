@@ -1,0 +1,48 @@
+L2(Phylum),,bootstrapped,,,fischer,,,
+taxonomy,Test stat.,pval,pval_fdr,pval_bon,pval,pval_fdr,pval_bon,
+k__Bacteria;p__GAL15,-0.8169216656,0,0,0,0.0005764123,0.0317026782,0.0317026782,
+k__Bacteria;p__Bacteroidetes,0.7832167832,0.005,0.1283333333,0.275,0.0015727465,0.0432505289,0.0865010578,
+L3(ORder),,bootstrapped,,,fischer,,,
+taxonomy,Test stat.,pval,pval_fdr,pval_bon,pval,pval_fdr,pval_bon,
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria,-0.8601398601,0.001,0.181,0.181,0.0001037518,0.0187790777,0.0187790777,
+k__Bacteria;p__Chloroflexi;c__TK10,-0.7832167832,0.002,0.181,0.362,0.0015727465,0.0948890391,0.2846671174,
+k__Bacteria;p__Chloroflexi;c__Ktedonobacteria,-0.8041958042,0.003,0.181,0.543,0.0008649339,0.0782765155,0.1565530309,
+L4,,bootstrapped,,,fischer,,,
+taxonomy,Test stat.,pval,pval_fdr,pval_bon,pval,pval_fdr,pval_bon,
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__,0.8531468531,0,0,0,0.0001430635,0.0520750965,0.0520750965,
+k__Bacteria;p__Actinobacteria;c__Thermoleophilia;o__Gaiellales,0.7692307692,0.002,0.2426666667,0.728,0.0022481834,0.1636677519,0.8183387597,
+k__Bacteria;p__Actinobacteria;c__Thermoleophilia;o__Solirubrobacterales,0.7762237762,0.002,0.2426666667,0.728,0.001887424,0.1636677519,0.6870223183,
+k__Bacteria;p__Armatimonadetes;c__[Fimbriimonadia];o__[Fimbriimonadales],0.7832167832,0.005,0.455,1,0.0015727465,0.1636677519,0.5724797279,
+L5,,bootstrapped,,,fischer,,,
+taxonomy,Test stat.,pval,pval_fdr,pval_bon,pval,pval_fdr,pval_bon,
+k__Bacteria;p__Armatimonadetes;c__[Fimbriimonadia];o__[Fimbriimonadales];f__[Fimbriimonadaceae],-0.9160839161,0,0,0,0.0000027010807719,0.0015828333,0.0015828333,
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__;f__,-0.8671328671,0,0,0,0.000073638,0.0215759375,0.043151875,
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__Xanthobacteraceae,-0.7972027972,0,0,0,0.0010653664,0.156076177,0.6243047078,
+k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__;f__,-0.7972027972,0.002,0.293,1,0.0010653664,0.156076177,0.6243047078,
+k__Bacteria;p__Firmicutes;c__Bacilli;o__Bacillales;f__Staphylococcaceae,0.7622377622,0.003,0.3516,1,0.0026592784,0.25020827,1,
+k__Bacteria;p__Armatimonadetes;c__SJA-176;o__;f__,-0.757203629,0.004,0.3906666667,1,0.002988836,0.25020827,1,
+k__Bacteria;p__Acidobacteria;c__TM1;o__;f__,-0.7692307692,0.005,0.4185714286,1,0.0022481834,0.25020827,1,
+OTU,,bootstrapped,,,fischer,,,
+taxonomy,,pval,pval_fdr,pval_bon,pval,pval_fdr,pval_bon,
+k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__EB1017; g__; s__,-0.929320377285,,,,0.000000704392523523,0.0109209016847,0.0109209016847,1123057
+k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__,-0.907351201492,,,,0.00000570649337523,0.026585667998,0.0884734732895,1126447
+k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__,-0.906745793221,,,,0.00000599016433611,0.026585667998,0.0928715078671,211922
+k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__,-0.905028686328,,,,0.00000685904747111,0.026585667998,0.106342671992,109707
+k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__,-0.899491710342,,,,0.0000104015957752,0.0321284561273,0.161266340898,4452696
+k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__,-0.893171247131,,,,0.0000161658414062,0.0321284561273,0.250635205162,207216
+k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae; g__; s__,-0.892027048845,,,,0.000017446908889,0.0321284561273,0.270496875415,226277
+k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__,-0.891889954089,,,,0.0000176058387883,0.0321284561273,0.272960924573,999784
+k__Bacteria; p__OP3; c__koll11; o__GIF10; f__kpj58rc; g__; s__,-0.888937450111,,,,0.0000213280218887,0.0321284561273,0.330669651362,4361763
+k__Bacteria; p__Acidobacteria; c__Acidobacteria-5; o__; f__; g__; s__,-0.887724762865,,,,0.0000230326595217,0.0321284561273,0.357098353224,4346541
+k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Ellin5290; f__; g__; s__,-0.886306374406,,,,0.0000251663269541,0.0321284561273,0.390178733096,1105745
+k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Herminiimonas; s__,-0.883095519685,,,,0.0000305975777476,0.0321284561273,0.474384845399,944197
+k__Bacteria; p__Elusimicrobia; c__Elusimicrobia; o__FAC88; f__; g__; s__,-0.882702025669,,,,0.0000313243091003,0.0321284561273,0.485652088291,218152
+k__Bacteria; p__Verrucomicrobia; c__[Methylacidiphilae]; o__S-BQ2-57; f__; g__; s__,-0.882663350106,,,,0.0000313964912579,0.0321284561273,0.486771200463,4080005
+k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__MIZ46; f__; g__; s__,-0.881070747013,,,,0.0000344889254984,0.0321284561273,0.534716300927,921722
+k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__Ellin515; g__; s__,-0.880739734166,,,,0.0000351618116449,0.0321284561273,0.545148727742,223808
+k__Bacteria; p__Actinobacteria; c__Acidimicrobiia; o__Acidimicrobiales; f__; g__; s__,-0.880707175807,,,,0.000035228570315,0.0321284561273,0.546183754164,112066
+k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__,-0.879160717765,,,,0.0000385205738212,0.0331790542513,0.597222976523,551517
+k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__Ellin6537; f__; g__; s__,-0.876646347803,,,,0.0000444046133835,0.0362341645209,0.688449125898,722416
+k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__,-0.872155453081,,,,0.0000567226045812,0.0438538567083,0.879427261427,89144
+k__Bacteria; p__Verrucomicrobia; c__[Spartobacteria]; o__[Chthoniobacterales]; f__[Chthoniobacteraceae]; g__DA101; s__,-0.871286082223,,,,0.0000593995737148,0.0438538567083,0.920930990874,4386592
+k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__; g__; s__,-0.870136540574,,,,0.0000630954337271,0.044465072932,0.978231604505,213580

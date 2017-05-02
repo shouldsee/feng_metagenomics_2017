@@ -1,0 +1,112 @@
+#SampleID	ProjectID	Biome	Sample Name	Sample Description	Sample ID	Run ID	Biome	Experiment type	Instrument model	Release version	pca1_L2	pca1_L3	pca1_L4	pca1_L5	pca1_unweighted_unifrac	random	constant
+SRR1272178	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602506	SRR1272178	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272177	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. bulk soil	SRS602505	SRR1272177	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272166	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602504	SRR1272166	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272159	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602503	SRR1272159	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272158	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil.	SRS602502	SRR1272158	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272157	SRP041697	Grasslands	site10_bulk	Bacterial 16S amplified from bulk soil	SRS602501	SRR1272157	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272156	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602500	SRR1272156	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272155	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602499	SRR1272155	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272154	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602498	SRR1272154	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272153	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602497	SRR1272153	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272152	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602473	SRR1272152	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272035	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602379	SRR1272035	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272034	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602378	SRR1272034	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272033	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602377	SRR1272033	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272032	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602376	SRR1272032	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272031	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602375	SRR1272031	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272030	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602374	SRR1272030	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272029	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602373	SRR1272029	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272028	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602372	SRR1272028	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272027	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602371	SRR1272027	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272026	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602370	SRR1272026	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272025	SRP041697	Grasslands	site1_bulk	Bacterial 16S amplified from bulk soil	SRS602359	SRR1272025	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1272014	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from Avena sp. rhizopshere soil	SRS602360	SRR1272014	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1271992	SRP041697	Grasslands	Grassland 16S amplicons	Bacterial 16S amplified from bulk soil	SRS602342	SRR1271992	Grasslands	amplicon	Illumina Genome Analyzer IIx	2							
+SRR1145430	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1145429	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1145428	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1145427	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1143350	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1143339	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1143324	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1141250	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+SRR1141249	SRP035536	Contaminated soil	Pristine and TNT contaminated soils				Contaminated soil										
+2016_1		2016_1	16S_Gordon_Square		2016_1	2016_1	sample	amplicon	Illumina MiSeq								
+2016_3		2016_3	16S_Gordon_Square		2016_3	2016_3	sample	amplicon	Illumina MiSeq								
+2016_2		2016_2	16S_Gordon_Square		2016_2	2016_2	sample	amplicon	Illumina MiSeq								
+2016_4		2016_4	16S_Gordon_Square		2016_4	2016_4	sample	amplicon	Illumina MiSeq								
+2017_2		2017_2	16S_Gordon_Square		2017_2	2017_2	sample	amplicon	Illumina MiSeq								
+2017_1		2017_1	16S_Gordon_Square		2017_1	2017_1	sample	amplicon	Illumina MiSeq								
+2017_3		2017_3	16S_Gordon_Square		2017_3	2017_3	sample	amplicon	Illumina MiSeq								
+2017_4		2017_4	16S_Gordon_Square		2017_4	2017_4	sample	amplicon	Illumina MiSeq								
+2017_5		2017_5	16S_Gordon_Square		2017_5	2017_5	sample	amplicon	Illumina MiSeq								
+2017_6		2017_6	16S_Gordon_Square		2017_6	2017_6	sample	amplicon	Illumina MiSeq								
+2017_7		2017_7	16S_Gordon_Square		2017_7	2017_7	sample	amplicon	Illumina MiSeq								
+2017_8		2017_8	16S_Gordon_Square		2017_8	2017_8	sample	amplicon	Illumina MiSeq								
+ERR876040	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719970	ERR876040	Sediment	amplicon	454 GS Junior	3							
+ERR876039	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719969	ERR876039	Sediment	amplicon	454 GS Junior	3							
+ERR876038	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719968	ERR876038	Sediment	amplicon	454 GS Junior	3							
+ERR876037	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719967	ERR876037	Sediment	amplicon	454 GS Junior	3							
+ERR876036	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719966	ERR876036	Sediment	amplicon	454 GS Junior	3							
+ERR876035	ERP010442	Sediment	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	Archaeal and Bacterial 16S rRNA gene amplicons derived from sedimetny of two Australian Salt Lakes	ERS719965	ERR876035	Sediment	amplicon	454 GS Junior	3							
+ERR789942	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685238	ERR789942	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789937	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685233	ERR789937	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789934	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685230	ERR789934	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789927	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685223	ERR789927	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789924	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685220	ERR789924	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789923	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685219	ERR789923	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789911	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685207	ERR789911	Agricultural	amplicon	Illumina MiSeq	3							
+ERR789887	ERP009878	Agricultural	Biochar-16SrRNA pots trial	Biochar-16SrRNA pots trial	ERS685183	ERR789887	Agricultural	amplicon	Illumina MiSeq	3							
+ERR770570	ERP009686	Activated Sludge	Activated Sludge V4-3 AAW V4 2012-10-31	Activated Sludge V4-3 AAW V4 2012-10-31	ERS666679	ERR770570	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770567	ERP009686	Activated Sludge	Activated Sludge V4-34 AAW V4 2012-10-31	Activated Sludge V4-34 AAW V4 2012-10-31	ERS666710	ERR770567	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770553	ERP009686	Activated Sludge	Activated Sludge V4-21 AAW V4 2012-10-31	Activated Sludge V4-21 AAW V4 2012-10-31	ERS666697	ERR770553	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770548	ERP009686	Activated Sludge	Activated Sludge V4-17 AAW V4 2012-10-31	Activated Sludge V4-17 AAW V4 2012-10-31	ERS666693	ERR770548	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770533	ERP009686	Activated Sludge	Activated Sludge 16SAMP-970 AAW V34 2012-10-31	Activated Sludge 16SAMP-970 AAW V34 2012-10-31	ERS666714	ERR770533	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770485	ERP009686	Activated Sludge	Activated Sludge 16SAMP-47 AAW V13 2012-10-31	Activated Sludge 16SAMP-47 AAW V13 2012-10-31	ERS666738	ERR770485	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770446	ERP009686	Activated Sludge	Activated Sludge 16SAMP-196 AAW V13 2013-03-25	Activated Sludge 16SAMP-196 AAW V13 2013-03-25	ERS666791	ERR770446	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770428	ERP009686	Activated Sludge	Activated Sludge 16SAMP-142 AAW V13 2013-01-16	Activated Sludge 16SAMP-142 AAW V13 2013-01-16	ERS666773	ERR770428	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR770416	ERP009686	Activated Sludge	Activated Sludge 16SAMP-130 AAW V13 2012-10-31	Activated Sludge 16SAMP-130 AAW V13 2012-10-31	ERS666761	ERR770416	Activated Sludge	amplicon	Illumina MiSeq	3							
+ERR669913	ERP008562	Fecal	16S rRNA	16S rRNA	ERS580072	ERR669913	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664372	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574946	ERR664372	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664371	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574945	ERR664371	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664369	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574943	ERR664369	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664368	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574942	ERR664368	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664367	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574941	ERR664367	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664366	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574940	ERR664366	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664364	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574938	ERR664364	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664362	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574936	ERR664362	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664361	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574935	ERR664361	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR664360	ERP008562	Fecal	16S rRNA	16S rRNA	ERS574934	ERR664360	Fecal	amplicon	454 GS FLX Titanium	2							
+ERR1739393	ERP019891	Sediment	ERR1739393		ERR1739393		Sediment										
+ERR1739362	ERP019891	Sediment	ERR1739394		ERR1739362		Sediment										
+ERR1739360	ERP019891	Sediment	ERR1739395		ERR1739360		Sediment										
+ERR1739355	ERP019891	Sediment	ERR1739396		ERR1739355		Sediment										
+ERR1739321	ERP019891	Sediment	ERR1739397		ERR1739321		Sediment										
+ERR1739315	ERP019891	Sediment	ERR1739398		ERR1739315		Sediment										
+ERR1739313	ERP019891	Sediment	ERR1739399		ERR1739313		Sediment										
+ERR1739308	ERP019891	Sediment	ERR1739400		ERR1739308		Sediment										
+ERR1739292	ERP019891	Sediment	ERR1739401		ERR1739292		Sediment										
+ERR1739290	ERP019891	Sediment	ERR1739402		ERR1739290		Sediment										
+ERR1739284	ERP019891	Sediment	ERR1739403		ERR1739284		Sediment										
+ERR1739282	ERP019891	Sediment	ERR1739404		ERR1739282		Sediment										
+ERR1739276	ERP019891	Sediment	ERR1739405		ERR1739276		Sediment										
+ERR1739272	ERP019891	Sediment	ERR1739406		ERR1739272		Sediment										
+ERR1739271	ERP019891	Sediment	ERR1739407		ERR1739271		Sediment										
+ERR1720633	ERP013987	forest soil	ERR1739403				forest soil										
+ERR1720618	ERP013987	forest soil	ERR1739404				forest soil										
+ERR1226653	ERP013987	forest soil	ERR1739393				forest soil										
+ERR1226615	ERP013987	forest soil	ERR1739394				forest soil										
+ERR1226590	ERP013987	forest soil	ERR1739395				forest soil										
+ERR1226553	ERP013987	forest soil	ERR1739396				forest soil										
+ERR1226521	ERP013987	forest soil	ERR1739397				forest soil										
+ERR1226476	ERP013987	forest soil	ERR1739398				forest soil										
+ERR1226464	ERP013987	forest soil	ERR1739399				forest soil										
+ERR1226419	ERP013987	forest soil	ERR1739400				forest soil										
+ERR1226389	ERP013987	forest soil	ERR1739401				forest soil										
+ERR1226203	ERP013987	forest soil	ERR1739403				forest soil										
+ERR1111519	ERP013107	Sediment	24-27 cm depth	16S rRNA gene amplicon sequences from a sediment core sampled from the Broadkill River	 Delaware	ERS955808	Sediment	 16S rRNA gene amplicons	ERR1111519	Sediment							
+ERR1111518	ERP013107	Sediment	12-15 cm depth	16S rRNA gene amplicon sequences from a sediment core sampled from the Broadkill River	 Delaware	ERS955807	Sediment	 16S rRNA gene amplicons	ERR1111518	Sediment							
+ERR1111517	ERP013107	Sediment	3-6 cm depth	16S rRNA gene amplicon sequences from a sediment core sampled from the Broadkill River	 Delaware	ERS955806	Sediment	 16S rRNA gene amplicons	ERR1111517	Sediment							
+ERR1111515	ERP013107	Sediment	12-15 cm depth	HpaII-digested-DNA extracted from a sediment core sampled from the Broadkill River	 Delaware	ERS955804	Sediment	 HpaII restriction digested metagenomic reads	ERR1111515	Sediment							
+ERR1111514	ERP013107	Sediment	3-6 cm depth	HpaII-digested-DNA extracted from a sediment core sampled from the Broadkill River	 Delaware	ERS955803	Sediment	 HpaII restriction digested metagenomic reads	ERR1111514	Sediment							
